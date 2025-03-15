@@ -57,7 +57,9 @@ For Children (5–12 years)
 Mild Anemia: 11.0 – 11.4 g/dL
 Moderate Anemia: 8.0 – 10.9 g/dL
 Severe Anemia: < 8.0 g/dL
+
 Output is appearing as :
+
 🔹 Patient Name: Megha
 
 🔹 Age: 10 | Category: Child | Weight: 30.0 kg
