@@ -1,5 +1,5 @@
 Heyyy!! Rutuja Saharkar here  🙂
-My 1st awesome Project : Anemia Detection & Prevention using Machine Learing and Web Development
+Anemia Detection & Prevention using Machine Learing and Web Development
 According to estimates by the World Health Organization, around 25% of the global population suffers from anemia—that is, roughly one in four people. 
 The prevalence, however, is not uniform across all groups and regions. For instance:
 
