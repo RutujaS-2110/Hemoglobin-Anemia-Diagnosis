@@ -26,9 +26,8 @@ Further I created a WebApp by using Streamlit App who allow me to deploy and pro
 
 ANEMIA SHIELD : DETECT AND PREVENT
 My WebApp Contain Multi-pages :
-1. Secure Login(can take user credentials but will require admin(my) approval to login as soon as I approve from my side it will get open for that particular user)
-2. Home
-3. Diagnosis(which takes user input and give result whether person is suffering from anemia or not(normal,mild,moderate,severe) on basis of Hb(Hemoglobin) based on WHO guidlines, and also provide prescription along with preventive measures to cure)
+1. Home
+2. Diagnosis(which takes user input and give result whether person is suffering from anemia or not(normal,mild,moderate,severe) on basis of Hb(Hemoglobin) based on WHO guidlines, and also provide prescription along with preventive measures to cure)
 
 Here are the WHO Hemoglobin (Hb) ranges for Normal, Mild, Moderate, and Severe Anemia:
 Normal Hb Ranges (WHO Guidelines)
