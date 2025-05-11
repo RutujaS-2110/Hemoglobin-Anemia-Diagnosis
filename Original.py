@@ -31,7 +31,7 @@ def register_user(username, password):
 def authenticate(username, password):
     users = load_users()
     # Temporary Fix: Allow Admin Login Without Hashing
-    if username == "admin" and password == "password":
+    if username == "megha" and password == "pass":
         return True  # ✅ Admin login works
     hashed_password = hash_password(password)
     if user_exists(username):
@@ -117,7 +117,7 @@ if not st.session_state.logged_in:
 else:
     st.sidebar.button("🔓 Logout", on_click=logout)
     # Admin Panel
-    if st.session_state.username == "admin":
+    if st.session_state.username == "megha":
         admin_approve_users()
     
     def home_page():
