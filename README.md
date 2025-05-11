@@ -24,7 +24,6 @@ While no single model is universally the best, RandomForest’s balance of accur
 
 Further I created a WebApp by using Streamlit App who allow me to deploy and provide me with URL, Streamlit makes my work easier than ever 
 
-ANEMIA SHIELD : DETECT AND PREVENT
 My WebApp Contain Multi-pages :
 1. Home
 2. Diagnosis(which takes user input and give result whether person is suffering from anemia or not(normal,mild,moderate,severe) on basis of Hb(Hemoglobin) based on WHO guidlines, and also provide prescription along with preventive measures to cure)
