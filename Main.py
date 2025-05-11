@@ -127,8 +127,8 @@ if not st.session_state.logged_in:
 else:
     st.sidebar.button("🔓 Logout", on_click=logout)
 
-    # Admin Panel: if logged in as admin (or any user with the username "megha")
-    if st.session_state.username == "Rutu":
+    # Admin Panel: if logged in as admin (or any user with the username "Rutuja")
+    if st.session_state.username == "Rutuja":
         admin_approve_users()
     
     def home_page():
