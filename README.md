@@ -22,7 +22,7 @@ RandomForest classifiers are often preferred for health monitoring for several k
 RandomForest generally requires less parameter tuning and is user-friendly, making it a practical choice for various health monitoring applications—from disease prediction to patient risk assessment.
 While no single model is universally the best, RandomForest’s balance of accuracy, interpretability, and robustness makes it a strong candidate for many health monitoring tasks.
 
-Further I created a WebApp by using Streamlit App who allow me to deploy and provide me with URL [https://hemoanemiadet.streamlit.app/], Streamlit makes my work easier than ever 
+Further I created a WebApp by using Streamlit App who allow me to deploy and provide me with URL, Streamlit makes my work easier than ever 
 
 ANEMIA SHIELD : DETECT AND PREVENT
 My WebApp Contain Multi-pages :
