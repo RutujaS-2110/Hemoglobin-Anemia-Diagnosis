@@ -23,11 +23,7 @@ While no single model is universally the best, RandomForest’s balance of accur
 
 Further I created a WebApp by using Streamlit App who allow me to deploy and provide me with URL, Streamlit makes my work easier than ever 
 
-My WebApp Contain Multi-pages :
-1. Home
-2. Diagnosis(which takes user input and give result whether person is suffering from anemia or not(normal,mild,moderate,severe) on basis of Hb(Hemoglobin) based on WHO guidlines, and also provide prescription along with preventive measures to cure)
-
-Here are the WHO Hemoglobin (Hb) ranges for Normal, Mild, Moderate, and Severe Anemia:
+WHO Hemoglobin (Hb) ranges for Normal, Mild, Moderate, and Severe Anemia:
 Normal Hb Ranges (WHO Guidelines)
 Men: 13.0 – 17.0 g/dL
 Women (Non-Pregnant): 12.0 – 15.0 g/dL
@@ -57,37 +53,3 @@ Mild Anemia: 11.0 – 11.4 g/dL
 Moderate Anemia: 8.0 – 10.9 g/dL
 Severe Anemia: < 8.0 g/dL
 
-Output is appearing as :
-
-🔹 Patient Name: Megha
-
-🔹 Age: 10 | Category: Child | Weight: 30.0 kg
-
-🔹 Hemoglobin: 5.0 g/dL
-
-🔹 Predicted Anemia Condition: Severe Anemia
-
-🩺 Preventive Measures:
-
-🚨 Seek immediate medical attention.
-
-🚨 You may need specialized treatment like transfusions or medications.
-
-🚨 Maintain a high-protein, iron-rich diet with doctor supervision.
-
-💊 Allopathy: Iron Sucrose IV infusion, Erythropoietin injections.
-
-🌿 Ayurveda: Draksharishta (grape-based iron tonic), Mandoor Bhasma.
-
-🍃 Naturopathy: Fresh Aloe Vera juice, Beetroot juice therapy.
-
-🏡 Homeopathy: Ferrum Metallicum 30C (for severe weakness and pallor).
-
-✅ Patient data saved successfully! (for normal,mild,moderate different preventive measures are there)
-
-4. Patient Data (Store Data)
-5. Visualization (Anemia Severity Distribution by Pie Graph)
-
-
-
-🙂❤️ Thanks for Reading !!!!!!!!❤️
