@@ -1,4 +1,3 @@
-Heyyy!! Rutuja Saharkar here  🙂
 
 Anemia Detection & Prevention using Machine Learing and Web Development
 
